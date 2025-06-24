@@ -1,6 +1,6 @@
 # Data Science Bootcamp Model Answers Repository
 
-Welcome to the **Model Answers** repository for theData Science Bootcamp.
+Welcome to the **Model Answers** repository for the Data Science Bootcamp.
 
 This repository contains completed solutions to selected tasks from the bootcamp curriculum. These solutions are intended to serve as reference material for your learning and revision.
 
