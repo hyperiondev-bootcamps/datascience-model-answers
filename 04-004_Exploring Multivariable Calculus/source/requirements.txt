@@ -1,0 +1,2 @@
+# Dependencies for multivariable.py (Exploring Multivariable Calculus)
+sympy>=1.13,<2.0
